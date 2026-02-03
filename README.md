@@ -3,7 +3,7 @@
 <h1 align="center"># Repositório público do Saulo Alves</h1>
 
 Aqui você encontrará diversos projetos desenvolvidos em diversas linguagens de programação, espero que alguns deles possam te ajudar de alguma forma. <br>
-<p align="center">:warning:<b>Em nenhum dos projetos abaixo foi utilizado códigos gerado por IA</b>:warning:</p>
+<p align="center">:warning:<b> Em nenhum dos projetos abaixo foi utilizado códigos gerado por IA </b>:warning:</p>
 
 <img align="right" src="images/excel.png" width="125">
 
